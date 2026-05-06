@@ -52,9 +52,5 @@ I'm at the stage where I'm building real things to learn, not learning to eventu
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ujjawal-meshram-8263063a2)
-- 📧 your.email@gmail.com ← update this
+- 📧 ujjawalmeshram4@gmail.com
 - 🐙 You're already here
-
----
-
-*Currently open to backend roles, internships, and interesting problems.*
